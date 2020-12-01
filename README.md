@@ -14,6 +14,7 @@ This tool will assign a VDI to user, or unassign all existing VDIs for a user.
 
 ### Prerequisites
 
+* Citrix powershell modules are needed on the machine from which this tool is invoked.
 * Should have permissions on Citrix Site to assign a VDI or unassign VDI.
 
 ### Installing
