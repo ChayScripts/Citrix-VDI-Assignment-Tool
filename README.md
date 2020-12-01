@@ -8,7 +8,7 @@ As a part of new user onboarding process, a request will be sent to Citrix team 
 
 For new user onbording, service desk can assign a VDI and when a user leaves an organization, service desk can unassign all the VDIs assigned to that user. Citrix Admins job is to maintain free VDIs in the pool.
 
-## Description
+### Description
 
 This tool will assign a VDI to user, or unassign all existing VDIs for a user.
 
