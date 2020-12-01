@@ -2,6 +2,12 @@
 
 Tool to assign a VDI to user or unassign all VDIs assigned to a user.
 
+## Motivation
+
+As a part of new user onboarding process, a request will be sent to Citrix team for new VDI creation and assignment. To offload this process to servicedesk/L1 team, they need a tool or script to do the same. So, I've created this tool. 
+
+For new user onbording, service desk can assign a VDI and when a user leaves an organization, service desk can unassign all the VDIs assigned to that user. Citrix Admins job is to maintain free VDIs in the pool.
+
 ## Description
 
 This tool will assign a VDI to user, or unassign all existing VDIs for a user.
@@ -36,7 +42,7 @@ This tool will NOT:
 
 ### Who can use
 
-Preferably L1 or Helpdesk team who is responsible for assigning VDIs for new users or unassigning VDIs when user leaves the organization.
+Preferably L1 or ServiceDesk team who is responsible for assigning VDIs for new users or unassigning VDIs when user leaves the organization.
 
 ### Built With
 
