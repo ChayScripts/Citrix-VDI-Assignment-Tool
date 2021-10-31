@@ -52,7 +52,7 @@ Preferably L1 or ServiceDesk team who is responsible for assigning VDIs for new 
 
 ### Authors
 
-* **Tech Guy** - [TechScripts](https://github.com/TechScripts)
+* **Chay** - [ChayScripts](https://github.com/ChayScripts)
 
 ### Contributing
 
